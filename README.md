@@ -16,5 +16,9 @@ I can remind myself to stay in a growth mindset with the following axioms:
 
 >Growth mindset is the path to success!
 
+Thanks to growth mindset I made this bread
+
+![Some bread I made](/my bread.jpg)
+
 `This chart from the presentation is excellent`  
 ![Look at this chart](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
