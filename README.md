@@ -14,4 +14,4 @@ I can remind myself to stay in a growth mindset with the following axioms:
   - Failure is giving up, not making mistakes
   - Every problem has a pit
   
-![Look at this chart]{https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png}
+![Look at this chart](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
