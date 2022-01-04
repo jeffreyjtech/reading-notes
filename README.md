@@ -1,7 +1,9 @@
 # Reading Notes Repository
 
-My first CodeFellows GitHub repository, which contains my reading notes.
+My first CodeFellows GitHub repository, which contains my Code 102 reading notes.
 
 ## Table of Contents
 
-- [Growth Mindset Notes](https://jeffreyjtech.github.io/reading-notes/growth-mindset-notes-lab01b)
+### Class 01 notes
+  - [Growth Mindset notes](https://jeffreyjtech.github.io/reading-notes/growth-mindset-notes-lab01b)
+  - [Markdown reading notes](https://jeffreyjtech.github.io/reading-notes/markdown-notes-read01)
