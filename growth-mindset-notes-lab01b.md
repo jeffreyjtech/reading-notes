@@ -1,4 +1,4 @@
-# Growth Mindset Notes
+# Growth Mindset Notes (Lab 01b assignment)
 
 Growth mindset means many things to me:
 
