@@ -31,9 +31,9 @@
 
 - With `git clone "url"` you can copy a repository from a remote location (web service, LAN server, etc).
 
-- Upon making commits to a cloned repository `git push origin main` will upload the commits to the corresponding remote repository. The "origin" refers to the destination of this operation and "main" refers to the source of the operation.
+- Upon making commits to a cloned repository `git push origin main` will upload the commits to the corresponding remote repository. The alias `origin` is the destination of this operation and `main` is the source of the operation.
 
-### Local Repo Structure
+### Local Repository Structure
 
 - The local Git Repository contains the following essential components:
   - Working Directory, which is where the actual files reside
