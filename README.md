@@ -13,3 +13,7 @@ My first CodeFellows GitHub repository, which contains my Code 102 reading notes
 
   - [Git reading notes](https://jeffreyjtech.github.io/reading-notes/git-notes-read03)
   - [HTML and Wireframing reading notes](https://jeffreyjtech.github.io/reading-notes/html-notes-read04)
+
+### Class 05 notes
+
+- [CSS Reading Notes](https://jeffreyjtech.github.io/reading-notes/CSS-reading-notes-read05)
