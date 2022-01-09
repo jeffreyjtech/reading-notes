@@ -6,7 +6,6 @@
 - The values used by operators are known as *operands*.
 - Operators can be categorized as unary, binary, and ternary operators, respectively, depending on the number of operands needed.
 
-
 ### Assignment Operators
 
 Here is a list of assignment operators and their function
@@ -21,26 +20,26 @@ Assignment operators exist which combine arithmetic, bitwise, and logical operat
 
 Comparison operators return a logical value (true or false) based on the comparison they specify. JavaScript will attempt to convert differently typed operands into an appropriate type for the comparison. This does not apply to `===` or `!==`.
 
-    - `<` - less than
-    - `<=` - less than or equal to
-    - `>` - greater than
-    - `>=` - greater than or equal to
-    - `!=` does not equal
-    - `==` is equal
-    - `===` is equal and same type
-    - `!==` is equal or not equal type
+- `<` - less than
+- `<=` - less than or equal to
+- `>` - greater than
+- `>=` - greater than or equal to
+- `!=` does not equal
+- `==` is equal
+- `===` is equal and same type
+- `!==` is equal or not equal type
 
 ### Types of Operators
 
 All JavaScript operators belong to one of following types:
 
-    - Arithmetic `-`
-    - Assignment `=`
-    - String `+` (`+` concatenates values into a string if *any* of the values are strings)
-    - Comparison `==`
-    - Logical `&&`
-    - Type `typeof`
-    - Bitwise `&`
+- Arithmetic `-`
+- Assignment `=`
+- String `+` (`+` concatenates values into a string if *any* of the values are strings)
+- Comparison `==`
+- Logical `&&`
+- Type `typeof`
+- Bitwise `&`
 
 ## Programming with loops
 
