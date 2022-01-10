@@ -1,25 +1,26 @@
 # Reading Notes Repository
 
-My first CodeFellows GitHub repository, which contains my Code 102 reading notes.
+![Code Fellows Logo](CodeFellowsLogo.png)
+
+Hi, I'm Jeffrey, currently enrolled in Code 201. This is my first **Code Fellows** GitHub repository. This contains my reading notes from various **Code Fellows** coursework.
 
 ## Table of Contents
 
-### Class 01 and 02 notes
+### Code 201
 
-- [Growth Mindset notes](https://jeffreyjtech.github.io/reading-notes/growth-mindset-notes-lab01b)
-- [Markdown reading notes](https://jeffreyjtech.github.io/reading-notes/markdown-notes-read01)
-- [The Coder's Computer reading notes](https://jeffreyjtech.github.io/reading-notes/coders-computer-notes-read02)
+> *Foundations of Software Development*
 
-### Class 03 and 04 notes
+1. [Introductory HTML and JavaScript]()
 
-- [Git reading notes](https://jeffreyjtech.github.io/reading-notes/git-notes-read03)
-- [HTML and Wireframing reading notes](https://jeffreyjtech.github.io/reading-notes/html-notes-read04)
+### Code 102
 
-### Class 05 notes
+> *Intro to Software Development*
 
-- [CSS Reading Notes](https://jeffreyjtech.github.io/reading-notes/CSS-reading-notes-read05)
-
-### Class 07 & 08 notes
-
-- [Programming with JavaScript](https://jeffreyjtech.github.io/reading-notes/programming-with-JavaScript-read07)
-- [Operators and Loops Reading Notes](https://jeffreyjtech.github.io/reading-notes/operators-and-loops-read08)
+1. [Growth Mindset notes](https://jeffreyjtech.github.io/reading-notes/growth-mindset-notes-lab01b)
+2. [Markdown reading notes](https://jeffreyjtech.github.io/reading-notes/markdown-notes-read01)
+3. [The Coder's Computer reading notes](https://jeffreyjtech.github.io/reading-notes/coders-computer-notes-read02)
+4. [Git reading notes](https://jeffreyjtech.github.io/reading-notes/git-notes-read03)
+5. [HTML and Wireframing reading notes](https://jeffreyjtech.github.io/reading-notes/html-notes-read04)
+6. [CSS Reading Notes](https://jeffreyjtech.github.io/reading-notes/CSS-reading-notes-read05)
+7. [Programming with JavaScript](https://jeffreyjtech.github.io/reading-notes/programming-with-JavaScript-read07)
+8. [Operators and Loops Reading Notes](https://jeffreyjtech.github.io/reading-notes/operators-and-loops-read08)
