@@ -18,13 +18,26 @@ The following tags are examples of structural markup:
 
 The following tags are examples of semantic markup
 
-- `<dfn>`
-- `<em>`
-- `<abbr>`
-- `<cite>`
-- `<del>` and `<ins>`
+- Definition: `<dfn>`
+- Emphasis: `<em>`
+- Abbreviation: `<abbr>`
+- Citation: `<cite>`
+- Deletion and Insertion: `<del>` & `<ins>`
 
 ## HTML | Chapter 10: "Introducing CSS" (pp.226-245)
+
+> Cascading Style Sheet
+
+CSS is the language by which you define rules to change the appearance and layout of the "boxes" that compose an HTML file. CSS can be inserted with the `<style>` element, inline as an attribute inside of an element, or linked in from a .css file. The simplest CSS rule has a selector, a property, and a value assigned to that property:
+
+```css
+p{
+  color: green;
+  /* this will change the text color of any <p> element green*/
+}
+```
+
+There are several different types of selectors depending on how they discriminate between elements. Certain CSS properties are inherited automatically from a parent element to child elements. To explain what "child" and "parent" mean, elements within an element are it's children and that container element is the parent. The "Cascading" in *Cascading Style Sheet* refers to how multiple CSS files, the `<style>` element, and inline CSS can all apply to a single HTML file to impart properties in a cascading and deterministic manner. In other words CSS has an "order of operations" for finding the final properties for an element.
 
 ## JS | Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
 
