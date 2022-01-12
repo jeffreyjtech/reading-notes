@@ -16,7 +16,7 @@ I can remind myself to stay in a growth mindset with the following axioms:
 
 Thanks to growth mindset I made this ***bread***.
 
-![Some bread I made](/mybread.jpg)
+![Some bread I made](mybread.jpg)
 
 `This chart from the presentation is excellent`
 ![Look at this chart](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
