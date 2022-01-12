@@ -11,6 +11,7 @@ Hi, I'm Jeffrey, currently enrolled in Code 201. This is my first **Code Fellows
 > *Foundations of Software Development*
 
 1. [Introductory HTML and JavaScript](https://jeffreyjtech.github.io/reading-notes/class-01)
+2. [Basics of HTML, CSS & JS](https://jeffreyjtech.github.io/reading-notes/class-02)
 
 ### Code 102
 
