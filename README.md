@@ -15,7 +15,7 @@ Hi, I'm Jeffrey, currently enrolled in Code 201. This is my first **Code Fellows
 3. [HTML Lists, Control Flow with JS, and the CSS Box Model](https://jeffreyjtech.github.io/reading-notes/code201/class-03)
 4. [HTML Links, CSS Layout, JS Functions](https://jeffreyjtech.github.io/reading-notes/code201/class-04)
 5. [Images, Color, Text](https://jeffreyjtech.github.io/reading-notes/code201/class-05)
-
+6. [JS Object Literals; The DOM](https://jeffreyjtech.github.io/reading-notes/code201/class-06)
 
 ### Code 102
 
