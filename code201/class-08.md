@@ -26,6 +26,6 @@
 
 ## Duckett HTML/CSS book: Ch. 15, “Layout” (again; repeat of Class 4 reading)
 
-I took fairly thorough notes of Chapter 15, linked [here](https://jeffreyjtech.github.io/reading-notes/code201/class-04#html--chapter-15-layout-pp358-404).
+I took fairly thorough notes of Chapter 15 for Read 04, linked [here](https://jeffreyjtech.github.io/reading-notes/code201/class-04#html--chapter-15-layout-pp358-404).
 
 I missed the `sticky` value as an option for the `position` attribute, but it's covered in the outline above.
