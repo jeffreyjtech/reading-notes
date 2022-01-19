@@ -28,3 +28,20 @@ Elements of a good OOP domain model:
 
 ## JS | Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
 
+- Creating objects with constructor notation
+  - Single object instantiation
+  - Multiple object instantiation using constructor function
+- Modifying objects
+  - Dot `.` notation
+  - Square bracket `[]` notation
+- `this`
+- Arrays and Objects
+  - Arrays are objects
+  - Arrays can store objects
+- Built-in objects
+  - Browser
+  - DOM
+  - JavaScript
+- Primitives in JavaScript
+- Math object and its methods
+- Date object
