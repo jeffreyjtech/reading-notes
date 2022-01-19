@@ -43,5 +43,6 @@ Domain modeling is the process of creating a conceptual model for a specific pro
   - DOM
   - JavaScript
 - Primitives in JavaScript
-- Math object and its methods
-- Date object
+- `Math` object
+  - `Math.random()`
+- `Date` object
