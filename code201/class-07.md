@@ -6,7 +6,7 @@
 
 Domain modeling is the process of creating a conceptual model for a specific problem. In other words, it means to model your problem domain. Domain models are used in software development to VVQ the understanding of a problem between stakeholders. A good domain model makes it easy for a software development team and other teams/organizations to stay on the same page about what's being built.
 
-Elements of a good OOP domain model:
+### Elements of a good OOP domain model:
 
 - A constructor to create multiple objects to do the thing.
 - A layout of properties with keys and values
