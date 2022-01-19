@@ -1,5 +1,7 @@
 # Read: 06 - JS Object Literals; The DOM
 
+>Reading notes for Code 201, covering various chapters from *HTML & CSS: Design and Build Websites* and *JavaScript & JQuery: Interactive Front-End Web Development* by Jon Duckett. The book titles have been abbreviated as HTML and JS in the subheadings of these notes.
+
 ## [Understanding the problem domain is the hardest part of programming](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
 
 In software development, problem domain is the model of a problem that you have built up through research and analysis of the problem itself. When you are working with a familiar or well-documented problem domain, coding features is easy. Coding without a defined problem domain is like building a plane while it's in the air, or trying to answer to a question that you only heard half of.
