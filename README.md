@@ -18,6 +18,9 @@ Hi, I'm Jeffrey, currently enrolled in Code 201. This is my first **Code Fellows
 6. [JS Object Literals; The DOM](https://jeffreyjtech.github.io/reading-notes/code201/class-06)
 7. [HTML Tables; JS Constructor Functions](https://jeffreyjtech.github.io/reading-notes/code201/class-07)
 8. [More CSS Layout](https://jeffreyjtech.github.io/reading-notes/code201/class-08)
+9. [Forms and Events](https://jeffreyjtech.github.io/reading-notes/code201/class-09)
+10. [JS Debugging](https://jeffreyjtech.github.io/reading-notes/code201/class-10)
+11. [Audio, Video, Images](https://jeffreyjtech.github.io/reading-notes/code201/class-11)
 
 ### Code 102
 
