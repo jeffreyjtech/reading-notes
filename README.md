@@ -22,6 +22,7 @@ Hi, I'm Jeffrey, currently enrolled in Code 201. This is my first **Code Fellows
 10. [JS Debugging](https://jeffreyjtech.github.io/reading-notes/code201/class-10)
 11. [Audio, Video, Images](https://jeffreyjtech.github.io/reading-notes/code201/class-11)
 12. [Docs for the HTML `<canvas>` Element & Chart.js](https://jeffreyjtech.github.io/reading-notes/code201/class-12)
+13. [Local Storage](https://jeffreyjtech.github.io/reading-notes/code201/class-13)
 
 ### Code 102
 
