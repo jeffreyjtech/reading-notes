@@ -30,5 +30,5 @@
 
 ### Using Web Storage
 
-- Create separate functions/events to handle the cases where the user has data stored from a past visit
+- Create separate functions/event handlers to handle the cases where the user has data stored from a past visit
 - Remember that storage values are always strings which must be coerced into the appropriate type.
