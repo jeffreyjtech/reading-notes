@@ -23,6 +23,9 @@ Hi, I'm Jeffrey, currently enrolled in Code 201. This is my first **Code Fellows
 11. [Audio, Video, Images](https://jeffreyjtech.github.io/reading-notes/code201/class-11)
 12. [Docs for the HTML `<canvas>` Element & Chart.js](https://jeffreyjtech.github.io/reading-notes/code201/class-12)
 13. [Local Storage](https://jeffreyjtech.github.io/reading-notes/code201/class-13)
+14. [Combined Reading: 14a & 14b](https://jeffreyjtech.github.io/reading-notes/code201/class-14)
+    - 14a: CSS Transforms, Transitions, and Animations
+    - 14b: What Google Learned About Teams
 
 ### Code 102
 
