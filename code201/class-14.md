@@ -2,6 +2,63 @@
 
 ## 14a | CSS Transforms, Transitions, and Animations
 
+## [CSS Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
+
+The `transform` property allows transformation of elements in HTML in the geometric sense
+
+### Transform syntax
+
+Transform is not universally supported so a transform property made be repeated with multiple vendor prefixes to work on as many browsers as possible. The following codeblock copied from the [reading material](https://learn.shayhowe.com/advanced-html-css/css-transforms/#transform-syntax) demonstrates this
+
+```css
+div {
+  -webkit-transform: scale(1.5);
+     -moz-transform: scale(1.5);
+       -o-transform: scale(1.5);
+          transform: scale(1.5);
+}
+```
+
+### Flavors of transform
+
+- 2D: The following properties apply 2D transformations to an HTML element
+  - `transform: scale()`
+  - `transform: rotate()`
+  - `transform: translate()`
+  - `transform: skew()`
+  - `transform-origin:`
+- Pseudo-3D:
+  - `transform: perspective()`
+    - `perspective:`
+    - `perspective-origin:`
+  - `transform: rotateX()` and `transform: rotateY()`
+- 3D: The following properties apply 3D transformations to an HTML element
+  - `transform: scaleZ()`
+  - `transform: translateZ()`
+  - `transform-style:`
+  - `backface-visibility:`
+
+## [Transitions and Animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
+
+### Transitions
+
+Transitions are the state change that can occur when an element is hovered over, focused on, clicked on, etc.
+
+Like the transform property, vendor prefixes may be need to have your transitions render on as many platforms as possible.
+
+Not all CSS properties can be changed by transition. These are ones that cannot deterministically have a specific middle state.
+
+- Transition CSS properties
+  - `transition-property:`
+  - `transition-duration:`
+  - `transition-timing-function`
+  - `transition-delay`
+- Transition shorthand `transition:`
+
+### Animations
+
+Animations, as defined in CSS using the `@keyframes` selector, allow for what are essentially more complex transitions. The `@keyframes` selector must be vendor-prefixed to work, and repeated to work on multiple browsers.
+
 ## 14b | [What Google Learned About Teams](https://www.google.com/amp/mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.amp.html)
 
 This article was an interesting read. I like it to the point that I would rather reflect on it than just write notes:
