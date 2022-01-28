@@ -4,7 +4,7 @@
 
 - Chart JS is added into HTML with a `<script>` element in the `<head>`
 - Combine with a `<canvas>` to render charts
-- Drawing shapes
+- The following constructor functions create charts of various types:
   - `Chart().Line()`
   - `Chart().Pie()`
   - `Chart().Bar()`
@@ -18,24 +18,23 @@
 
 ## [Canvas API: Drawing shapes](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
 
-- The grid
+- The grid: The canvas element has a grid defined in pixels, which is equivalent to it's real size in pixels on the webpage.
 - Drawing rectangles
-  - `.fillStyle()`
-  - `.fillRect()`
-  - `.strokeRect()`
+  - `.fillRect()`: This draws a solid rectangle
+  - `.strokeRect()`: this draws a rectangle outline
+  - `.clearRect()`: This clear a rectangular area of any fill
+  - `.rect()`: This creates a rectangle of the specified length and width whose top left corner is at the specified x,y coordinate position.
 - Drawing paths
-  - `.beginPath()`
-  - `.closePath()`
-  - `.stroke()`
-  - `.fill()`
+  - `.beginPath()`: This defines where a drawing path starts
+  - `.closePath()`: This tells CSS to draw a line between the start of the path and wherever the "path cursor" is currently.
+  - `.stroke()`: This draws an outline of the laid out path
+  - `.fill()`: This fills the laid out path.
 - Pen manipulation and path creation
-  - `.moveTo()`
-  - `.lineTo()`
-  - `.arc()`
-  - `.quadraticCurveTo()`
-  - `.bezierCurveTo()`
-  - `.rect()`
-- `Path2D()`
+  - `.moveTo()`: This moves the "path cursor" to a pixel coordinate position.
+  - `.lineTo()`: This draws a line from the current "path cursor" position to the specified x and y point. 
+  - `.arc()`: This takes in several arguments to draw a specified arc.
+    - `.quadraticCurveTo()` & `.bezierCurveTo()`: : Like `.arc()`, these draw a quadratic curve or a bezier curve based off a formula fed by the several arguments you are required to pass in.
+- `Path2D()`: Path 2D is a new (or recently updated) API which provides simpler function calls for drawing shapes.
 
 ## [Canvas API: Applying styles and colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
 
