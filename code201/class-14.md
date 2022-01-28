@@ -57,7 +57,19 @@ Not all CSS properties can be changed by transition. These are ones that cannot 
 
 ### Animations
 
-Animations, as defined in CSS using the `@keyframes` selector, allow for what are essentially more complex transitions. The `@keyframes` selector must be vendor-prefixed to work, and repeated with different prefixes to work on multiple browsers.
+Animations, as defined in CSS using the `@keyframes` selector, allow for more complex transitions. The `@keyframes` selector must be vendor-prefixed to work, and repeated with different prefixes to work on multiple browsers.
+
+- `@keyframes`: The `@keyframes` selector has the special property of not directly affecting any element by itself. It must be followed by a name to be used in the `animation-name:` property of another element.
+- Required properties for animations
+  - `animation-name:` This property links the given value to an animation with that name.
+  - `animation-duration:` How long the animation lasts
+- More animation properties:
+  - `animation-timing-function:`
+  - `animation-delay:`
+  - `animation-iteration-count:`
+  - `animation-direction:`
+  - `animation-play-state:`
+  - `animation-fill-mode:`
 
 ## 14b | [What Google Learned About Teams](https://www.google.com/amp/mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.amp.html)
 
