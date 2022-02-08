@@ -6,6 +6,12 @@ Hi, I'm Jeffrey, currently enrolled in Code 201. This is my first **Code Fellows
 
 ## Table of Contents
 
+### Code 301
+
+> *Intermediate Software Development*
+
+1. [Introduction to React and Components](https://jeffreyjtech.github.io/reading-notes/code301/class-01)
+
 ### Code 201
 
 > *Foundations of Software Development*
