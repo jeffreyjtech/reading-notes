@@ -10,9 +10,10 @@
     1. `constructor`
     2. `render`
     3. `React Updates`
-        - (this answer assumes that "React Updates" is short for React is updating or manipulating the DOM, otherwise this would be after `componentDidMount`)
     4. `componentDidMount`
-    5. `componentWillUnmount`
+    5. `render`
+    6. `React Updates`
+    7. `componentWillUnmount`
 4. What does componentDidMount do?
     - The componentDidMount method is a common, but optional, lifecycle method in React components. It's invoked immediately after a component is mounted ([reference](https://reactjs.org/docs/react-component.html#componentdidmount)). In other words, this method is called when the component has finally been inserted into the DOM node tree.
 
