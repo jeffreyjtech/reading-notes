@@ -11,6 +11,7 @@ Hi, I'm Jeffrey, currently enrolled in Code 201. This is my first **Code Fellows
 > *Intermediate Software Development*
 
 1. [Introduction to React and Components](https://jeffreyjtech.github.io/reading-notes/code301/class-01)
+2. [State and Props](https://jeffreyjtech.github.io/reading-notes/code301/class-02)
 
 ### Code 201
 
