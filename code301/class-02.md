@@ -9,7 +9,7 @@
 3. Put the following things in the order that they happen: `componentDidMount`, `render`, `constructor`, `componentWillUnmount`, `React Updates`
     1. `constructor`
     2. `render`
-    3. `React Updates` 
+    3. `React Updates`
         - (this answer assumes that "React Updates" is short for React is updating or manipulating the DOM, otherwise this would be after `componentDidMount`)
     4. `componentDidMount`
     5. `componentWillUnmount`
