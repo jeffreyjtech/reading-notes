@@ -2,7 +2,7 @@
 
 ![Code Fellows Logo](CodeFellowsLogo.png)
 
-Hi, I'm Jeffrey, currently enrolled in Code 201. This is my first **Code Fellows** GitHub repository. This contains my reading notes from various **Code Fellows** coursework.
+Hi, I'm Jeffrey, currently enrolled in Code 301. This is my first **Code Fellows** GitHub repository. This contains my reading notes from various **Code Fellows** coursework.
 
 ## Table of Contents
 
