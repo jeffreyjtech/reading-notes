@@ -7,7 +7,7 @@
 2. Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
     - It depends. Waiting to store the response limits UI responsiveness but reduces the amount of rendering needed when a user is interacting with something. Instantly storing the response can enable a greater degree of UI responsiveness. The desired amount of responsiveness and rendering work are both dependent on how someone wants to implement a feature.
 3. How do we target what the user is entering if we have an event handler on an input field?
-    - As long as our event handler has an `event` parameter, `event.target.value` will evaluate to the current contents of the input field.
+    - As long as our event handler has an `event` parameter, `event.target.value` (or `event.target.textarea` if it's a `<textarea>` component) will evaluate to the current contents of the input field.
 
 ## [The Conditional (Ternary) Operator Explained](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
 
