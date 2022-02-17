@@ -3,7 +3,7 @@
 ## [React Docs - Forms](https://reactjs.org/docs/forms.html)
 
 1. What is a ‘Controlled Component’?
-    - It is a component which uses state data at all times to control its rendering behavior. Otherwise, a component would have to use two separate sets of logic, one for the default render and another for re-renders initiated by user interaction.
+    - It is a component which uses state data at all times to control its rendering behavior. Otherwise, a component would have to use two separate sets of logic, one for the initial render and another for updates initiated by user interaction.
 2. Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
     - It depends. Waiting to store the response limits UI responsiveness but reduces the amount of rendering needed when a user is interacting with something. Instantly storing the response can enable a greater degree of UI responsiveness. The desired amount of responsiveness and rendering work are both dependent on how someone wants to implement a feature.
 3. How do we target what the user is entering if we have an event handler on an input field?
