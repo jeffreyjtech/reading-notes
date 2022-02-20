@@ -13,6 +13,46 @@ Read 03 - Passing Functions as Props
 
 ## [The Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
 
+1. What is the spread operator?
+    - It expands an iterable object, typically an array, for use in expressions which need non-array collections of data. "Non-array collections of data" means things like key-value pairs in an object, the multiple arguments of a function call, the list of values in an array assignment.
+2. List 4 things that the spread operator can do.
+    - The spread operator can expand an array into multiple arguments in a function call
+    - It can expand an array into another array.
+    - It can be used to combine objects.
+    - It can add items to a list.
+3. Give an example of using the spread operator to combine two arrays.
 
+    - ```js
+      let arrayOne = [1,2,3];
+      let arrayTwo = [4,5,6];
+
+      let combinedArray = [...arrayOne,...arrayTwo];
+      ```
+
+4. Give an example of using the spread operator to add a new item to an array.
+
+    - ```js
+      let arrayThree = [7,8,9];
+
+      let arraySevenToTen = [arrayThree,10];
+      ```
+
+5. Give an example of using the spread operator to combine two objects into one.
+
+    - ```js
+      let objectA = {potato: patato};
+      let objectB = {tomato: tamato}
+
+      let combinedObject = {...objectA,...objectB}
+      ```
 
 ## [How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
+
+1. In the video, what is the first step that the developer does to pass functions between components?
+    - Ans
+2. In your own words, what does the `increment` function do?
+    - Ans
+3. How can you pass a method from a parent component into a child component?
+    - Ans
+4. How does the child component invoke a method that was passed to it from a parent component?
+    - Ans
