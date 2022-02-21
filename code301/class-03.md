@@ -56,3 +56,10 @@
     - You can pass down a reference to the method using props. For example `<Component appFunction = this.appFunction />`
 4. How does the child component invoke a method that was passed to it from a parent component?
     - Child components invoke passed-down methods by invoking the reference given as a property of `this.props`. For example `this.props.appFunction(name)`.
+
+## Things I want to know more about
+
+I'm wondering what the best approach is for handling state when components are generated from data which comes from outside of JavaScript, like a database:
+
+- When is best to handle state at the lowest level possible? 
+- When is it best to handle state at a high level?
