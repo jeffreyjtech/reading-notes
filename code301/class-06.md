@@ -66,4 +66,4 @@
 
 ## Things I want to know more about
 
-
+I've heard that certain programming languages like Python are used extensively for back-end operations (not Node.JS), even if the front-end uses JavaScript. Why is that?
