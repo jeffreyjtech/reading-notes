@@ -61,5 +61,5 @@
 
 I'm wondering what the best approach is for handling state when components are generated from data which comes from outside of JavaScript, like a database:
 
-- When is best to handle state at the lowest level possible? 
+- When is best to handle state at the lowest level possible?
 - When is it best to handle state at a high level?
