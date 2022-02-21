@@ -50,4 +50,4 @@
 
 - What other strategies are there for using React besides the 5-step strategy in the reading? Those steps seem geared to make a brand new component set. The careful considerations at each step seem a bit optimistic if you're working on a complex, living codebase.
 
-- Will we practice using higher order functions 301 or 401?
+- Will we practice using higher order functions in 301 or 401?
