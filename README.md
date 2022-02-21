@@ -14,6 +14,7 @@ Hi, I'm Jeffrey, currently enrolled in Code 301. This is my first **Code Fellows
 2. [State and Props](https://jeffreyjtech.github.io/reading-notes/code301/class-02)
 3. [Passing Functions as Props](https://jeffreyjtech.github.io/reading-notes/code301/class-03)
 4. [React and Forms](https://jeffreyjtech.github.io/reading-notes/code301/class-04)
+5. [Putting it all together](https://jeffreyjtech.github.io/reading-notes/code301/class-05)
 
 ### Code 201
 
