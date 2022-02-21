@@ -1,4 +1,4 @@
-Read 03 - Passing Functions as Props
+# Read 03 - Passing Functions as Props
 
 ## [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
 
@@ -23,8 +23,8 @@ Read 03 - Passing Functions as Props
 3. Give an example of using the spread operator to combine two arrays.
 
     - ```js
-      let arrayOne = [1,2,3];
-      let arrayTwo = [4,5,6];
+      let arrayA = [1,2,3];
+      let arrayB = [4,5,6];
 
       let combinedArray = [...arrayOne,...arrayTwo];
       ```
@@ -32,27 +32,27 @@ Read 03 - Passing Functions as Props
 4. Give an example of using the spread operator to add a new item to an array.
 
     - ```js
-      let arrayThree = [7,8,9];
-
-      let arraySevenToTen = [arrayThree,10];
+      let arrayC = [7,8,9];
+ 
+      let arraySevenToTen = [...arrayThree,10];
       ```
 
 5. Give an example of using the spread operator to combine two objects into one.
 
     - ```js
       let objectA = {potato: patato};
-      let objectB = {tomato: tamato}
+      let objectB = {tomato: tamato};
 
-      let combinedObject = {...objectA,...objectB}
+      let combinedObject = {...objectA,...objectB};
       ```
 
 ## [How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
 
 1. In the video, what is the first step that the developer does to pass functions between components?
-    - Ans
+    - First they store the data to be passed in App state.
 2. In your own words, what does the `increment` function do?
-    - Ans
+    - It takes a person's name as an argument, then it creates a new array based off of `this.state.people` with the named person's count increased by 1, and finally sets the new array to `people` state.
 3. How can you pass a method from a parent component into a child component?
-    - Ans
+    - You can pass down a reference to the method using props. For example `<Component appFunction = this.appFunction />`
 4. How does the child component invoke a method that was passed to it from a parent component?
-    - Ans
+    - Child components invoke passed-down methods by invoking the reference given as a property of `this.props`. For example `this.props.appFunction(name)`.
