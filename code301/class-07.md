@@ -32,3 +32,7 @@ Did I get API keys for the following APIs?
 2. **Weather Bit API** - Yes
 3. **Yelp API** - No (only required for stretch goal)
 4. **MovieDB API** - Yes
+
+## Things I want to know more about
+
+What are the regressive protocols which are alluded to in the REST reading? And why did they come about if they supposedly were inferior to HTTP?
