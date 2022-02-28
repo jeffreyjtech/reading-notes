@@ -19,6 +19,7 @@ Hi, I'm Jeffrey, currently enrolled in Code 301. This is my first **Code Fellows
 7. [REST](https://jeffreyjtech.github.io/reading-notes/code301/class-07)
 8. [APIs](https://jeffreyjtech.github.io/reading-notes/code301/class-08)
 9. [Functional Programming](https://jeffreyjtech.github.io/reading-notes/code301/class-09)
+10. [In-Memory Storage](https://jeffreyjtech.github.io/reading-notes/code301/class-10)
 
 ### Code 201
 
