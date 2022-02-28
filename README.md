@@ -17,6 +17,7 @@ Hi, I'm Jeffrey, currently enrolled in Code 301. This is my first **Code Fellows
 5. [Putting it all together](https://jeffreyjtech.github.io/reading-notes/code301/class-05)
 6. [NODE.JS](https://jeffreyjtech.github.io/reading-notes/code301/class-06)
 7. [REST](https://jeffreyjtech.github.io/reading-notes/code301/class-07)
+8. [APIs](https://jeffreyjtech.github.io/reading-notes/code301/class-08)
 
 ### Code 201
 
