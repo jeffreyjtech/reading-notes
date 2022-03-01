@@ -21,6 +21,7 @@ Hi, I'm Jeffrey, currently enrolled in Code 301. This is my first **Code Fellows
 9. [Functional Programming](https://jeffreyjtech.github.io/reading-notes/code301/class-09)
 10. [In-Memory Storage](https://jeffreyjtech.github.io/reading-notes/code301/class-10)
 11. [Mongo and Mongoose](https://jeffreyjtech.github.io/reading-notes/code301/class-11)
+
 ### Code 201
 
 > *Foundations of Software Development*
