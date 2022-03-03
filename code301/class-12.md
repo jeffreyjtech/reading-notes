@@ -20,8 +20,12 @@ In your own words, describe what each group of status code represents:
 1. ***Why do we need to pull our MongoDB database string out of our server and put it into our .env?*** Our database string sensitive information and storing it in .env helps hide that.
 2. ***What is middleware?*** Middle ware is logic which runs when the server receives a request but before it hits our routes.
 3. ***What does app.use(express.json()) do?*** It allows our server to process JSON as a body, when otherwise it would be processed as a POST or GET element.
-4. ***What does the /:id mean in a route?***
+4. ***What does the /:id mean in a route?*** `/:id` in a route means that URL with an alpha-numeric string in the place of `:id` will expose that string via `myRequest.params.id`.
 5. ***What is the difference between PUT and PATCH?***
+PUT requires a whole object to perform an update. PATCH requires only one property, while allowing more than one.
 6. ***How do you make a default value in a schema?***
+When creating the object literals in a schema, the default value is stored in the optional `default` property.
 7. ***What does a 500 error status code mean?***
+Code 500 means an internal server error occurred. It can represent many different problems and root causes, but it tells the requester that the server encounter an internal issue when processing their request.
 8. ***What is the difference between a status 200 and a status 201?***
+Status 201 means an object was successfully created by a POST request.
