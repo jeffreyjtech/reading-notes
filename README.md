@@ -22,6 +22,7 @@ Hi, I'm Jeffrey, currently enrolled in Code 301. This is my first **Code Fellows
 10. [In-Memory Storage](https://jeffreyjtech.github.io/reading-notes/code301/class-10)
 11. [Mongo and Mongoose](https://jeffreyjtech.github.io/reading-notes/code301/class-11)
 12. [CRUD](https://jeffreyjtech.github.io/reading-notes/code301/class-12)
+13. [Diversity & Inclusion in the Tech Industry](https://jeffreyjtech.github.io/reading-notes/code301/class-13)
 
 ### Code 201
 
