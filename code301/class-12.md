@@ -26,6 +26,6 @@ PUT requires a whole object to perform an update. PATCH requires only one proper
 6. ***How do you make a default value in a schema?***
 When creating the object literals in a schema, the default value is stored in the optional `default` property.
 7. ***What does a 500 error status code mean?***
-Code 500 means an internal server error occurred. It can represent many different problems and root causes, but it tells the requester that the server encounter an internal issue when processing their request.
+Code 500 means an internal server error occurred. It can represent many different problems and root causes. The bottom line is that the requester knows it's not their problem.
 8. ***What is the difference between a status 200 and a status 201?***
 Status 201 means an object was successfully created by a POST request.
