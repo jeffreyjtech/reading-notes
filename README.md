@@ -23,6 +23,8 @@ Hi, I'm Jeffrey, currently enrolled in Code 301. This is my first **Code Fellows
 11. [Mongo and Mongoose](https://jeffreyjtech.github.io/reading-notes/code301/class-11)
 12. [CRUD](https://jeffreyjtech.github.io/reading-notes/code301/class-12)
 13. [Diversity & Inclusion in the Tech Industry](https://jeffreyjtech.github.io/reading-notes/code301/class-13)
+14. Read 14 was excused.
+15. [Authentication](https://jeffreyjtech.github.io/reading-notes/code301/class-15)
 
 ### Code 201
 
