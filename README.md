@@ -12,6 +12,12 @@ Hi, I'm Jeffrey, currently enrolled in Code 301. This is my first **Code Fellows
 
 ---
 
+#### Prework
+
+1. [Introduction to SQL](https://jeffreyjtech.github.io/reading-notes/code401/prework-sql)
+
+#### Daily Readings
+
 1. [Node Ecosystem, TDD, CI/CD](https://jeffreyjtech.github.io/reading-notes/code401/class-01)
 
 ### Code 301
