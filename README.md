@@ -6,9 +6,19 @@ Hi, I'm Jeffrey, currently enrolled in Code 301. This is my first **Code Fellows
 
 ## Table of Contents
 
+### Code 401
+
+#### *Advanced Software Development in Full-Stack JavaScript*
+
+---
+
+1. [Node Ecosystem, TDD, CI/CD](/code401/class-01)
+
 ### Code 301
 
-> *Intermediate Software Development*
+#### *Intermediate Software Development*
+
+---
 
 1. [Introduction to React and Components](https://jeffreyjtech.github.io/reading-notes/code301/class-01)
 2. [State and Props](https://jeffreyjtech.github.io/reading-notes/code301/class-02)
@@ -28,7 +38,9 @@ Hi, I'm Jeffrey, currently enrolled in Code 301. This is my first **Code Fellows
 
 ### Code 201
 
-> *Foundations of Software Development*
+#### *Foundations of Software Development*
+
+---
 
 1. [Introductory HTML and JavaScript](https://jeffreyjtech.github.io/reading-notes/code201/class-01)
 2. [Basics of HTML, CSS & JS](https://jeffreyjtech.github.io/reading-notes/code201/class-02)
@@ -49,7 +61,9 @@ Hi, I'm Jeffrey, currently enrolled in Code 301. This is my first **Code Fellows
 
 ### Code 102
 
-> *Intro to Software Development*
+#### *Intro to Software Development*
+
+---
 
 1. [Growth Mindset notes](https://jeffreyjtech.github.io/reading-notes/code102/growth-mindset-notes-lab01b)
 2. [Markdown reading notes](https://jeffreyjtech.github.io/reading-notes/code102/markdown-notes-read01)
