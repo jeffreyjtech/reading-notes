@@ -6,25 +6,26 @@ Hi, I'm Jeffrey, currently enrolled in Code 301. This is my first **Code Fellows
 
 ## Table of Contents
 
+---
+
 ### Code 401
 
 #### *Advanced Software Development in Full-Stack JavaScript*
 
----
-
 #### Prework
 
 1. [Introduction to SQL](https://jeffreyjtech.github.io/reading-notes/code401/prework-sql)
+2. [The Command Line](https://jeffreyjtech.github.io/reading-notes/code401/prework-cli)
 
 #### Daily Readings
 
 1. [Node Ecosystem, TDD, CI/CD](https://jeffreyjtech.github.io/reading-notes/code401/class-01)
 
+---
+
 ### Code 301
 
 #### *Intermediate Software Development*
-
----
 
 1. [Introduction to React and Components](https://jeffreyjtech.github.io/reading-notes/code301/class-01)
 2. [State and Props](https://jeffreyjtech.github.io/reading-notes/code301/class-02)
@@ -42,11 +43,11 @@ Hi, I'm Jeffrey, currently enrolled in Code 301. This is my first **Code Fellows
 14. Read 14 was excused.
 15. [Authentication](https://jeffreyjtech.github.io/reading-notes/code301/class-15)
 
+---
+
 ### Code 201
 
 #### *Foundations of Software Development*
-
----
 
 1. [Introductory HTML and JavaScript](https://jeffreyjtech.github.io/reading-notes/code201/class-01)
 2. [Basics of HTML, CSS & JS](https://jeffreyjtech.github.io/reading-notes/code201/class-02)
@@ -65,11 +66,11 @@ Hi, I'm Jeffrey, currently enrolled in Code 301. This is my first **Code Fellows
     - 14a: CSS Transforms, Transitions, and Animations
     - 14b: What Google Learned About Teams
 
+---
+
 ### Code 102
 
 #### *Intro to Software Development*
-
----
 
 1. [Growth Mindset notes](https://jeffreyjtech.github.io/reading-notes/code102/growth-mindset-notes-lab01b)
 2. [Markdown reading notes](https://jeffreyjtech.github.io/reading-notes/code102/markdown-notes-read01)
