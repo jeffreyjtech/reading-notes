@@ -16,6 +16,7 @@ Hi, I'm Jeffrey, currently enrolled in Code 401. This is my first **Code Fellows
 
 1. [Introduction to SQL](https://jeffreyjtech.github.io/reading-notes/code401/prework-sql)
 2. [The Command Line](https://jeffreyjtech.github.io/reading-notes/code401/prework-cli)
+3. [Misc Readings and Videos](https://jeffreyjtech.github.io/reading-notes/code401/prework-readings)
 
 #### Daily Readings
 
