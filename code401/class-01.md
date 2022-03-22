@@ -30,5 +30,6 @@
     }
     ```
 
-4. ***Explain promises as though you were mentoring a Code 301 level student.*** Promises are a way of 
+4. ***Explain promises as though you were mentoring a Code 301 level student.*** Promises are objects which store asynchronous code to be executed when some long-term task is completed (or fails), without locking up the execution flow.
 5. ***Are all callback functions considered to be Asynchronous? Why or Why Not?***
+I don't believe all callbacks are async code. Particularly in the case when a callback function is used as a simple nested function. It's added on top of the callstack like any other nested function.
