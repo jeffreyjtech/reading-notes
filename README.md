@@ -21,6 +21,7 @@ Hi, I'm Jeffrey, currently enrolled in Code 401. This is my first **Code Fellows
 #### Daily Readings
 
 1. [Node Ecosystem, TDD, CI/CD](https://jeffreyjtech.github.io/reading-notes/code401/class-01)
+2. [Express](https://jeffreyjtech.github.io/reading-notes/code401/class-02)
 
 ---
 
