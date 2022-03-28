@@ -23,6 +23,7 @@ Hi, I'm Jeffrey, currently enrolled in Code 401. This is my first **Code Fellows
 1. [Node Ecosystem, TDD, CI/CD](https://jeffreyjtech.github.io/reading-notes/code401/class-01)
 2. [Express](https://jeffreyjtech.github.io/reading-notes/code401/class-02)
 3. [Express REST API](https://jeffreyjtech.github.io/reading-notes/code401/class-03)
+4. [Data Modeling](https://jeffreyjtech.github.io/reading-notes/code401/class-04)
 
 ---
 
