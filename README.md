@@ -24,6 +24,7 @@ Hi, I'm Jeffrey, currently enrolled in Code 401. This is my first **Code Fellows
 2. [Express](https://jeffreyjtech.github.io/reading-notes/code401/class-02)
 3. [Express REST API](https://jeffreyjtech.github.io/reading-notes/code401/class-03)
 4. [Data Modeling](https://jeffreyjtech.github.io/reading-notes/code401/class-04)
+5. [Linked Lists](https://jeffreyjtech.github.io/reading-notes/code401/class-05)
 
 ---
 
