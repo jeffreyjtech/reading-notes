@@ -27,4 +27,3 @@ A linked list consists of nodes which contain two things: data (the stuff we wan
 Linked Lists are fantastic data structures in systems which have non-abstract memory allocation. A traditional array has a set size, because it takes up a sequence of addresses in memory. Without that pre-defined size limit, adding or removing data from an array would mess around with other data stored in the registry. Linked Lists get around this "set size" problem by being flexible in their shape across a memory registry. We can use whatever addresses we want, wherever we want because we just need one word (or two) to store the important stuff and the address for the next node. I use word in the computer science sense as an arbitrary bit set which is works as a system's "default container" size.
 
 Anyways, Linked Lists are great. I was completely mystified by before reading about them and working with them. Now, I genuinely can't wait to learn about more data structures.
-

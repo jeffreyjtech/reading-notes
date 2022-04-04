@@ -21,10 +21,13 @@ Hi, I'm Jeffrey, currently enrolled in Code 401. This is my first **Code Fellows
 #### Daily Readings
 
 1. [Node Ecosystem, TDD, CI/CD](https://jeffreyjtech.github.io/reading-notes/code401/class-01)
-2. [Express](https://jeffreyjtech.github.io/reading-notes/code401/class-02)
-3. [Express REST API](https://jeffreyjtech.github.io/reading-notes/code401/class-03)
-4. [Data Modeling](https://jeffreyjtech.github.io/reading-notes/code401/class-04)
-5. [Linked Lists](https://jeffreyjtech.github.io/reading-notes/code401/class-05)
+1. [Express](https://jeffreyjtech.github.io/reading-notes/code401/class-02)
+1. [Express REST API](https://jeffreyjtech.github.io/reading-notes/code401/class-03)
+1. [Data Modeling](https://jeffreyjtech.github.io/reading-notes/code401/class-04)
+1. [Linked Lists](https://jeffreyjtech.github.io/reading-notes/code401/class-05)
+1. [Authentication](https://jeffreyjtech.github.io/reading-notes/code401/class-06)
+1. [Bearer Authorization](https://jeffreyjtech.github.io/reading-notes/code401/class-07)
+1. [Access Control](https://jeffreyjtech.github.io/reading-notes/code401/class-08)
 
 ---
 
