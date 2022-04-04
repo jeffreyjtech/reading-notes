@@ -28,6 +28,7 @@ Hi, I'm Jeffrey, currently enrolled in Code 401. This is my first **Code Fellows
 1. [Authentication](https://jeffreyjtech.github.io/reading-notes/code401/class-06)
 1. [Bearer Authorization](https://jeffreyjtech.github.io/reading-notes/code401/class-07)
 1. [Access Control](https://jeffreyjtech.github.io/reading-notes/code401/class-08)
+1. Read 09 was excused.
 
 ---
 
