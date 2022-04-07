@@ -1,3 +1,5 @@
+# Read 10 - Stacks & Queues
+
 I made two diagrams to demonstrate stacks and queues and their fundamental methods.
 
 - `Stack` methods not shown are `peek()`, which returns the value of the `top` node, and `isEmpty()`, which returns `true`/`false` if the stack is empty/not empty.
