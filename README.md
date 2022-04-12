@@ -30,10 +30,10 @@ Hi, I'm Jeffrey, currently enrolled in Code 401. This is my first **Code Fellows
 1. [Access Control](https://jeffreyjtech.github.io/reading-notes/code401/class-08)
 1. Read 09 was excused.
 1. [Stacks & Queues](https://jeffreyjtech.github.io/reading-notes/code401/class-10)
-1. [Placeholder](https://jeffreyjtech.github.io/reading-notes/code401/class-11)
-1. [Placeholder](https://jeffreyjtech.github.io/reading-notes/code401/class-12)
+1. [Event Driven Applications](https://jeffreyjtech.github.io/reading-notes/code401/class-11)
+1. [Socket.io](https://jeffreyjtech.github.io/reading-notes/code401/class-12)
 1. [Message Queues](https://jeffreyjtech.github.io/reading-notes/code401/class-13)
-1. [Placeholder](https://jeffreyjtech.github.io/reading-notes/code401/class-14)
+1. [Event Driven Architecture](https://jeffreyjtech.github.io/reading-notes/code401/class-14)
 1. [Trees](https://jeffreyjtech.github.io/reading-notes/code401/class-15)
 
 ---
