@@ -24,4 +24,4 @@
 - This library provides a `<CookiesProvider />` component for allowing components to consume the cookies via the React API.
 - It also provided a `useCookies` hook. This hook returns `cookies`, `setCookie`, and `removeCookie`
 - It has a `withCookies` function which mutates a React component to have cookies available via state.
-- The last major aspect of this API is the Cookies object, which has methods `get`, `set`, `getAll`, and `remove`.
+- The last major aspect of this package is the Cookies object, which has methods `get`, `set`, `getAll`, and `remove`.
